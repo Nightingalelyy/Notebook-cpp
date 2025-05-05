@@ -1,7 +1,7 @@
 {
   "author": "文字作者",
   "description": "文件描述",
-  "id": 1746344476279901,
+  "id": 1746433726430546,
   "title": "文件标题",
   "buildingType": 243,
   "planTimes": "3班",
@@ -47,7 +47,7 @@
         ],
         "manufacture": [
           {
-            "skip": true,
+            "skip": false,
             "product": "Pure Gold",
             "operators": [
               "清流",
@@ -241,7 +241,7 @@
         ],
         "manufacture": [
           {
-            "skip": true,
+            "skip": false,
             "product": "Pure Gold",
             "operators": [
               "清流",
@@ -435,7 +435,7 @@
         ],
         "manufacture": [
           {
-            "skip": true,
+            "skip": false,
             "product": "Pure Gold",
             "operators": [
               "清流",
@@ -629,7 +629,7 @@
         ],
         "manufacture": [
           {
-            "skip": true,
+            "skip": false,
             "product": "Pure Gold",
             "operators": [
               "清流",
@@ -1017,7 +1017,7 @@
         ],
         "manufacture": [
           {
-            "skip": true,
+            "skip": false,
             "product": "Pure Gold",
             "operators": [
               "清流",
